@@ -1,0 +1,95 @@
+.about {
+    display: flex;
+    padding: 179px 0 105px;
+}
+
+.about__part2 {
+    margin: 0 28px 0 30px;
+}
+
+.vegetables {
+    margin-bottom: 30px;
+}
+
+.part2__text {
+    border: 1.5px dashed rgba(118, 167, 19, 0.5);
+    margin: 0;
+    padding: 1px 81px 2px 82px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 44px;
+    letter-spacing: 0.03em;
+    color: #76A713;
+}
+
+.part2__number {
+    font-size: 25px;
+    margin-right: 8px;
+}
+
+.about__part3 {
+    margin-top: -22px;
+}
+
+.part3__header {
+    font-family: Oswald;
+    max-width: 517px;
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 89px;
+    text-transform: uppercase;
+    color: #191D28;
+}
+
+.part3__text {
+    font-family: Gilroy;
+    max-width: 570px;
+    margin: 25px 0 30px;
+    padding: 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #888888;
+}
+
+.part3__blockquote {
+    display: block;
+    font-family: Gilroy;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #AAAAAA;    
+    border-left: 1px solid #76A713;
+    margin: 0;
+    padding-left: 19px;
+}
+
+.part3__cite {
+    display: block;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+    margin: 24px 0 3px;
+    padding: 0;
+}
+
+.part3__job {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 140%;
+    color: #AAAAAA;
+    margin: 0;
+    padding: 0;
+}
